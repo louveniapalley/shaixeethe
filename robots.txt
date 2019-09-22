@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quootengoo.cocoaheads.be/sitemap.xml
